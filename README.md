@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, Rust**
 
-💬 Ask me about **Python, Rust, Discord Bots... or anything [here](https://github.com/aoi-yuito/aoi-yuito/issues)**
+💬 Ask me about **Python, Rust, Discord Bots... or anything [here](https://github.com/yuito2k/yuito2k/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -37,12 +37,12 @@
 <br/>
 
 <div align=center>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=aoi-yuito&show_icons=true&locale=en" alt="aoi-yuito" />
-  <img width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=aoi-yuito&" alt="aoi-yuito" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=yuito2k&show_icons=true&locale=en" alt="aoi-yuito" />
+  <img width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=yuito2k&" alt="aoi-yuito" />
 
   <br/>
   
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aoi-yuito&show_icons=true&locale=en&layout=compact" alt="aoi-yuito" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuito2k&show_icons=true&locale=en&layout=compact" alt="aoi-yuito" />
 </div>
 
 <br/><br/>
