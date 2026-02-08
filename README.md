@@ -25,7 +25,7 @@
   <a href="https://twitter.com/yuito2k" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
-  <a href="https://aoi-yuito.netlify.app" target="_blank">
+  <a href="https://yuito2k.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
